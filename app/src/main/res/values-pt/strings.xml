@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minha Aplicação</string>
+    <string name="hello_world">Ola Mundo!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="login">Entrar</string>
+    <string name="userName">Nome do Usuario</string>
+    <string name="password">Senha</string>
+    <string name="address">Endereço</string>
+    <string name="phone">Telefone</string>
+    <string name="age">Idade</string>
+    <string name="name">Nome</string>
+    <string name="save">Salvar</string>
+    <string name="newClient">Novo Cliente</string>
+    <string name="success">Sucesso!</string>
+    <string name="requiredField">Campo obrigatório!</string>
+    <string name="delete">Deletar</string>
+    <string name="edit">Editar</string>
+    <string name="confirm_delete">Confirma exclusão?</string>
+    <string name="confirm_progress">Deseja prosseguir?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="postal_code">Código Postal</string>
+    <string name="find_address">Procurar endereço</string>
+    <string name="patio">Logradouro</string>
+    <string name="district">Bairro</string>
+    <string name="city">Cidade</string>
+    <string name="country">Estado</string>
+    <string name="type_patio">Tipo Logradouro</string>
+    <string name="number">Número</string>
+    <string name="loading">Carregando...</string>
+    <string name="try_again">Tente Novamente</string>
+    <string name="cep_invalid">CEP Inávlido</string>
+    <string name="ok">OK</string>
+    <string name="user_password_invalid">Usuário ou Senha Inválido(a)</string>
+    <string name="welcome">Bem-vindo</string>
+</resources>
